@@ -7,7 +7,7 @@ const repeatString = function(string, num) {
     return newString;
 };
 
-console.log(repeatString('pula,', 3));
+console.log(repeatString('pula,', 10));
 
 // Do not edit below this line
 module.exports = repeatString;
